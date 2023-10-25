@@ -27,8 +27,10 @@ de ses améliorations à travers trois parties distinctes que voici :
 
 — Implémentation et analyse de l’algorithme de Karger sur deux structures de données
 de graphes
+
 — Amplification du succès de l’algorithme en étudiant la complexité et probabilité de
 succès de l’algorithme de Karger itéré
+
 — Étude de l’algorithme de Karger-Stein
 L’objectif étant de répondre à toutes les questions de l’énoncé du projet à travers ce
 rapport ainsi que le code joint.
